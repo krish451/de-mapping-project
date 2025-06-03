@@ -1,0 +1,39 @@
+[
+  {
+    "id": "cosmos-1",
+    "name": "COSMOS",
+    "type": "COSMOS",
+    "canonicalMappings": [
+      "Patient",
+      "Provider",
+      "Claim",
+      "Procedure"
+    ],
+    "createdAt": "2025-06-03T16:32:06.896Z",
+    "updatedAt": "2025-06-03T16:32:06.896Z"
+  },
+  {
+    "id": "nice-1",
+    "name": "NICE",
+    "type": "NICE",
+    "canonicalMappings": [
+      "Clinical",
+      "Administrative",
+      "Financial"
+    ],
+    "createdAt": "2025-06-03T16:32:06.896Z",
+    "updatedAt": "2025-06-03T16:32:06.896Z"
+  },
+  {
+    "id": "gps-1",
+    "name": "GPS",
+    "type": "GPS",
+    "canonicalMappings": [
+      "Location",
+      "Device",
+      "Measurement"
+    ],
+    "createdAt": "2025-06-03T16:32:06.896Z",
+    "updatedAt": "2025-06-03T16:32:06.896Z"
+  }
+]
